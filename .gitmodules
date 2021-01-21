@@ -12,8 +12,8 @@
 	branch = post-2.0.22-transmission
 [submodule "third-party/libnatpmp"]
 	path = third-party/libnatpmp
-	url = https://github.com/transmission/libnatpmp
-	branch = post-20151025-transmission
+	url = https://github.com/mickaelifs/libnatpmp.git
+	branch = apple-pmp-patch
 [submodule "third-party/libutp"]
 	path = third-party/libutp
 	url = https://github.com/transmission/libutp
